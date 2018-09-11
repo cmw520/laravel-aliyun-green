@@ -17,6 +17,7 @@ class Roa
 
     public function __construct($config)
     {
+        //this config
         $this->config = [
             'Version' => '2016-11-01',
             'accessKeyId' => '123456',
